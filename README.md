@@ -18,9 +18,10 @@ go get github.com/AuroraV/json-to-go@v0.1.0
 ### Features:
 - [x] json转golang结构体定义输出
 - [x] 输出模式可选:内联或分离
-- [ ] 根据JSON快速输出GOLANG代码
+- [ ] CLI交互式生成结构体定义文件
 - [ ] 内置简单web页，支持在线编辑
-- [ ] JSON字段定义comment，类似字典赋能业务
+- [ ] 更多JSON生成代码的探索
+- [ ] 支持对JSON流进行业务含义定义，类似字典赋能业务
 - [ ] ...
 > JSON结构是业内常用的传输语言； 若您有更多JSON可视化想法或对此项目有疑问，欢迎积极参与提ISSUE，您将获得积极的响应。
 
