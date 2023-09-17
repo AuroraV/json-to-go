@@ -1,5 +1,5 @@
-### JSON-to-GO：将JSON转换成Go结构体定义 【GOLANG实现】
-##### 灵感和输出结果来自[json-to-go](https://github.com/mholt/json-to-go）
+### JSON-to-GO：将JSON转换成Go结构体定义 【纯GOLANG实现】
+##### 灵感来自[json-to-go](https://github.com/mholt/json-to-go)
 
 ##### 用法：
 ```golang
@@ -12,7 +12,7 @@ structDef := GenerateStruct(meta, inline)
 
 ### 安装：
 ```shell
-go get github.com/AuroraV/json-to-go
+go get github.com/AuroraV/json-to-go@v0.1.0
 ```
 
 ### 使用样例
