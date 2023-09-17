@@ -16,7 +16,7 @@ go get github.com/AuroraV/json-to-go
 ```
 
 ### 使用样例
-[在线编辑](https://go.dev/play/p/-MKUWeDBml7)
+[在线编辑](https://go.dev/play/p/C67JZortfSI)
 ```golang
 // You can edit this code!
 // Click here and start typing.
