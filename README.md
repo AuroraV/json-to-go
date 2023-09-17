@@ -15,6 +15,15 @@ structDef := GenerateStruct(meta, inline)
 go get github.com/AuroraV/json-to-go@v0.1.0
 ```
 
+### Features:
+- [x] json转golang结构体定义输出
+- [x] 输出内联或分离
+- [ ] 根据JSON快速输出GOLANG代码
+- [ ] 内置简单web页，支持在线编辑
+- [ ] JSON字段定义comment，完成JSON结构体字典
+- ...
+> JSON结构是业内常用的传输语言； 若您有更多JSON可视化想法或对此项目有疑问，欢迎积极参与提ISSUE，您将获得积极的响应。
+
 ### 使用样例
 [在线编辑](https://go.dev/play/p/C67JZortfSI)
 ```golang
