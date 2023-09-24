@@ -12,7 +12,9 @@ structDef := GenerateStruct(meta, inline)
 
 ### 安装：
 ```shell
-go get github.com/AuroraV/json-to-go@v0.1.0
+go install github.com/AuroraV/json-to-go/cmd/g2j@v0.1.2
+
+j2g -s '{"a":123, "b":{"c":1.23, "d":["9", "8"]}}' -f true --inline true 
 ```
 
 ### Features:
